@@ -1,7 +1,7 @@
 {
   "name": "mene-darker-theme",
   "displayName": "Mene Darker Theme",
-  "description": "Una versione del Min Darker Theme con modifiche di colore (blu #2596be al posto del viola) da Gianluca Meneghetti.",
+"description": "A version of the Min Darker Theme with color modifications (blue #2596be instead of purple) by Gianluca Meneghetti.",
   "version": "1.1.0",
   "publisher": "menemadeit",  
   "engines": {
