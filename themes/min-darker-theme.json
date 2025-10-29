@@ -1,5 +1,5 @@
 {
-	"name": "Min Darker Theme (by GmsGarcia)",
+	"name": "Min Darker Theme (by GmsGarcia) forked by Mene",
 	"type": "dark",
 	"colors": {
         "dropdown.background" : "#252525",
@@ -81,9 +81,9 @@
 		"symbolIcon.classForeground": "#FF9800",
 		"symbolIcon.enumeratorForeground": "#FF9800",
 		"symbolIcon.eventForeground": "#FF9800",
-		"symbolIcon.methodForeground": "#b392f0",
-		"symbolIcon.constructorForeground": "#b392f0",
-		"symbolIcon.functionForeground": "#b392f0",
+		"symbolIcon.methodForeground": "#2596be",
+		"symbolIcon.constructorForeground": "#2596be",
+		"symbolIcon.functionForeground": "#2596be",
 		"symbolIcon.fieldForeground": "#79b8ff",
 		"symbolIcon.interfaceForeground": "#79b8ff",
 		"symbolIcon.variableForeground": "#79b8ff",
@@ -94,7 +94,7 @@
 	"tokenColors": [
 		{
 			"settings": {
-				"foreground": "#b392f0"
+				"foreground": "#2596be"
 			}
 		},
 		{
@@ -106,7 +106,7 @@
 				"markup.fenced_code meta.embedded.block"
 			],
 			"settings": {
-				"foreground": "#b392f0"
+				"foreground": "#2596be"
 			}
 		},
 		{
@@ -223,7 +223,7 @@
 				"constant.keyword.clojure"
 			],
 			"settings": {
-				"foreground": "#b392f0"
+				"foreground": "#2596be"
 			}
 		},
 		{
@@ -261,7 +261,7 @@
 		{
 			"scope": "token.debug-token",
 			"settings": {
-				"foreground": "#800080"
+				"foreground": "#2596be"
 			}
 		},
 		{
