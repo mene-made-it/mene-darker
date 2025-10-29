@@ -3,7 +3,7 @@
   "displayName": "Mene Darker Theme",
 "description": "A version of the Min Darker Theme with color modifications (blue #2596be instead of purple) by Gianluca Meneghetti.",
   "version": "1.1.0",
-  "publisher": "menemadeit",  
+  "publisher": "gianlucameneghetti",  
   "engines": {
     "vscode": "^1.15.0"
   },
